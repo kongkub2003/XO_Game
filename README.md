@@ -1,7 +1,7 @@
 # XO_Game
 1.การติดตั้ง Android Studio 
 	
-    1.1 ข้อกำหนดของการติดตั้ง Android Studio
+    ###1.1 ข้อกำหนดของการติดตั้ง Android Studio
 	- Java Development Kit (JDK): Android Studio ต้องใช้ JDK 8 ขึ้นไป
 	- ข้อกำหนดของระบบ: Windows, macOS หรือ Linux (ตรวจสอบข้อกำหนดของ Android Studio สำหรับรายละเอียด)
 	- RAM ขั้นต่ำ 4GB (แนะนำ 8GB ขึ้นไป)
